@@ -3,12 +3,10 @@
 </center>
 
  <h1 align = "center">Radio Box</h1>
- <h3 align = "center">An advanced radio bot for Discord</h3>
- <h4 align = "center"><a href = "https://invite.radio-box.dev">Invite Radio Box</a> ~ <a href = "https://support.radio-box.dev">Support Server</a></h4>
- <h4 align = "center"><a href = "https://invite.radio-box.dev">Terms & Conditions</a> ~ <a href = "https://radio-box.dev/privacy-policy">Privacy Policy</a></h4>
+ <h3 align = "center">An Advanced Radio Bot For Discord</h3>
+ <h4 align = "center"><a href = "https://invite.radio-box.dev">Invite Radio Box</a> ~ <a href = "https://support.radio-box.dev">Support Server</a> ~ <a href = "https://invite.radio-box.dev">Terms & Conditions</a> ~ <a href = "https://radio-box.dev/privacy-policy">Privacy Policy</a></h4>
   <hr>
- 
- 
+  
 <p>
   <h2>Home</h2>
   <h4>What is Radio Box ?</h4>
