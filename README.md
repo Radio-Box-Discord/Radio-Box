@@ -24,7 +24,7 @@ Radio Box is a bot developed by UltraLion#0404, its only purpose is to entertain
  <summary><b> French Version</b></summary>
  <br/>
 <p>
-  <h4>Qu'est-ce que Radio Box ? ?</h4>
+  <h4>Qu'est-ce que Radio Box ?</h4>
 Radio Box est un bot développé par UltraLion#0404, son seul but est de vous divertir avec les différentes stations de radio disponibles, chaque dimanche une mise à jour est faite si vous suggérez une radio dans le serveur de support.
 
   <h4>Pourquoi choisir Radio Box ?</h4>
