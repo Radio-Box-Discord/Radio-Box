@@ -6,12 +6,28 @@
  <h3 align = "center">An Advanced Radio Bot For Discord</h3>
  <h4 align = "center"><a href = "https://invite.radio-box.dev">Invite Radio Box</a> ~ <a href = "https://support.radio-box.dev">Support Server</a> ~ <a href = "https://invite.radio-box.dev">Terms & Conditions</a> ~ <a href = "https://radio-box.dev/privacy-policy">Privacy Policy</a></h4>
   <hr>
-  
+
+
+<details>
+ <summary><b> English Version </b></summary>
+ <br/>
 <p>
-  <h2>Home</h2>
   <h4>What is Radio Box ?</h4>
 Radio Box is a bot developed by UltraLion#0404, its only purpose is to entertain you with different radio stations available, every Sunday an update is made if you suggest a radio in the support server.
 
   <h4>Why Radio Box ?</h4>
-  Radio Box is free and easy to use. It is also the only certified radio bot available on discord. It also offers the slash commands
+    Radio Box is free and easy to use and offers a multitude of radio stations. It is also the only certified radio bot available on Discord. It also offers slash commands
 </p>
+</details>
+
+<details>
+ <summary><b> French Version</b></summary>
+ <br/>
+<p>
+  <h4>Qu'est-ce que Radio Box ? ?</h4>
+Radio Box est un bot développé par UltraLion#0404, son seul but est de vous divertir avec les différentes stations de radio disponibles, chaque dimanche une mise à jour est faite si vous suggérez une radio dans le serveur de support.
+
+  <h4>Pourquoi choisir Radio Box ?</h4>
+  Radio Box est gratuit et facile à utiliser et propose une multitude de radio. C'est également le seul bot radio certifié disponible sur Discord. Il offre également les commandes slash
+</p>
+</details>
