@@ -1,5 +1,5 @@
 <center>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=130&section=header&text=Radio%20Box&fontSize=30&fontAlign=80"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=6495ED&height=130&section=header&text=Radio%20Box&fontSize=30&fontAlign=80"/>
 </center>
 
  <h1 align = "center">Radio Box</h1>
