@@ -18,6 +18,9 @@ Radio Box is a bot developed by UltraLion#0404, its only purpose is to entertain
   <h4>Why Radio Box ?</h4>
     Radio Box is free and easy to use and offers a multitude of radio stations. It is also the only certified radio bot available on Discord. It also offers slash commands
 </p>
+
+<h4>Version : 1.0.7 </h4>
+
 </details>
 
 <details>
@@ -30,4 +33,7 @@ Radio Box est un bot développé par UltraLion#0404, son seul but est de vous di
   <h4>Pourquoi choisir Radio Box ?</h4>
   Radio Box est gratuit et facile à utiliser et propose une multitude de radio. C'est également le seul bot radio certifié disponible sur Discord. Il offre également les commandes slash
 </p>
+
+<h4>Version : 1.0.7 </h4>
+
 </details>
