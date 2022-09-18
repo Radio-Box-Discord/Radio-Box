@@ -7,7 +7,7 @@
  <h4 align = "center"><a href = "https://invite.radio-box.dev">Invite Radio Box</a> ~ <a href = "https://support.radio-box.dev">Support Server</a> ~ <a href = "https://invite.radio-box.dev">Terms & Conditions</a> ~ <a href = "https://radio-box.dev/privacy-policy">Privacy Policy</a></h4>
   <hr>
 
-
+<h1>If you have the ability to translate the bot into a new language, feel free to contact me on discord</h1>
 <details>
  <summary><b> English Version </b></summary>
  <br/>
