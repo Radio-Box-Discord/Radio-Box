@@ -1,0 +1,10 @@
+#Changelog
+- Ajout de la commande /language qui vous permet de choisir la langue pour le bot (Vous devez avoir une permission avec un rôle administrateur pour pouvoir utilisez cette commande)
+- Ajout de la radio plaza.one dans la catégorie autre (other) :plazaone: 
+- Ajout de la radio Kishiwada dans la catégorie Asie (Asia) :kishiwada:
+- Passage en version 1.0.8
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
+- Added the command /language which allows you to choose the language for the bot (You must have a permission with a administrator role to use this command)
+- Added the radio plaza.one in the category other :plazaone: 
+- Added the radio Kishiwada in the category Asia :kishiwada: 
+- Upgrade to version 1.0.8
