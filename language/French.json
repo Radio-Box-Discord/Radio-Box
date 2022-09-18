@@ -1,0 +1,125 @@
+{
+    "languageCommand": {
+        "success": "Langue définie sur le français 🇫🇷",
+        "noPermission": "Vous n'êtes pas autorisé à utiliser cette commande",
+        "notValidLanguage":"Cette langue n'est pas prise en charge"
+    },
+    "aboutCommand": {
+        "about": "Je suis un bot développé par UltraLion#0404, mon seul but est de vous divertir avec les différentes stations de radio disponibles, chaque dimanche une mise à jour est faite si vous proposez une radio dans le serveur de support. N'hésitez pas à voter pour moi avec la commande `/vote`"
+    },
+    "bot_infoCommand":{
+        "MyInformation": "Mes Informations",
+        "MyName": "Mon Nom",
+        "MyDiscriminator": "Mon Discriminateur",
+        "Version": "Version",
+        "ID": "ID",
+        "MyCreator": "Mon Créateur",
+        "NodeJS": "Node.JS",
+        "LibraryWorked": "Bibliothèque Utilisé",
+        "TimeOnline": "Temps En Ligne",
+        "IWasRaisedIn": "Date De Mise En Ligne",
+        "HostInformation" : "Informations Sur L'Hôte",
+        "Host": "Informations Sur L'Hôte",
+        "Processor": "Processeur",
+        "Heberger": "Hébergeur",
+        "OperationalSystem": "Système D'Exploitation",
+        "days": "jours",
+        "hours": "heures",
+        "minutes": "minutes",
+        "seconds": "secondes"
+    },
+    "DonateCommand": {
+        "donate": "Vous voulez faire un don pour soutenir mon travail et m'aider à héberger le bot ? [allez ici](https://www.buymeacoffee.com/ultralion)"
+    },
+    "HelpCommand" : {
+        "help_01" : "<:boradcast:961962981078499338> Bienvenue sur la page d'aide du Radio Box Bot, le seul bot sur discord qui offre une multitude de radios disponibles.\n",
+        "help_02" : "<a:verified_blue:961793874697797682> Ce bot vous permet d'écouter la radio de votre choix sur une liste de **21 stations de radio**.\n",
+        "help_03" : "<:blurple_rocket:961796432518602762> N'hésitez pas à rejoindre notre **serveur de support** en utilisant la commande `/support` et à inviter le bot avec `/invite`.\n",
+        "help_04" : "<:config:961786633542324266> Si vous voulez suggérer des radios à ajouter au bot, envoyez un message sur le serveur de support dans le salon <#980777300725485578>.\n",
+        "help_05" : "<a:verified_blue:961793874697797682> **Mes commandes** :\n`/bot-info, /help, /invite, /radio-list, /support, /vote`",
+        "Request": "Demandé par"
+    },
+    "InviteCommand": {
+        "invite": "Vous voulez écouter la radio sur votre serveur discord ? Ajoutez-moi ! [Cliquez ici pour m'inviter](https://discord.com/oauth2/authorize?client_id=961787029841145979&permissions=137442389056&scope=bot%20applications.commands)"
+    },
+    "pingCommand": {
+        "reply": "ms"
+    },
+    "RadioListCommand": {
+        "radiolist_01": "Bienvenue sur la page des radios disponibles.\n",
+        "radiolist_02": "Vous avez actuellement le choix entre **2** continents différents et une catégorie autre.\n",
+        "radiolist_03": "`/radio-europe, /radio-asia, /radio-other`\n",
+        "Request": "Demandé par"
+    },
+    "SupportCommand": {
+        "support": "Vous avez un problème avec le bot ou vous voulez simplement voir les nouvelles mises à jour du bot ? Rejoignez le serveur officiel [Cliquez ici pour rejoindre le serveur](https://discord.gg/3vBXg4VvM5)"
+    },
+    "VoteCommand": {
+        "vote": "Si vous ne savez pas comment me soutenir, votez pour moi sur le site top.gg. [Cliquez ici pour voter](https://top.gg/bot/961787029841145979)"
+    },
+    "RadioAsiaCommand": {
+        "voicechannel" : "Vous devez être dans un salon vocal pour écouter la radio.",
+        "Error" : "Une erreur s'est produite.",
+        "alreadyusing" : "Quelqu'un d'autre utilise déjà le robot sur le serveur",
+        "RadioRecord" : "Permet d'écouter Radio Record (Russie)",
+        "RussianMix" : "Vous permet d'écouter Russian Mix (Russie).",
+        "ListenMoeJPop" : "Vous permet d'écouter Listen.Moe JPop.",
+        "ListenMoeKpop" : "Vous permet d'écouter Listen.Moe Kpop.",
+        "RadioKishiwada" : "Permet d'écouter la radio Kishiwada Radio (Japon).",
+        "select" : "Sélectionnez votre radio",
+        "Request" : "Demandé par",
+        "embed_asia_01" : "Bienvenue sur le bot Radio Box.\n",
+        "embed_asia_02" : "Utilisez le menu déroulant ci-dessous pour choisir votre radio Asia.\n",
+        "embed_asia_03" : "S'il n'y a plus de personnes sur le salon vocal, le bot se déconnectera automatiquement.\n",
+        "embed_asia_04" : "Si vous voulez m'inviter sur un serveur, utilisez la commande : `/invite`\n",
+        "embed_asia_05" : "Vous avez le choix entre **5** radios d'Asie.\n",
+        "embed_asia_06" : "Si vous voulez en soumettre de nouvelles, rejoignez notre serveur de support : `/support`"
+    },
+    "RadioEuropeCommand": {
+        "voicechannel" : "Vous devez être dans un salon vocal pour écouter la radio.",
+        "Error" : "Une erreur s'est produite.",
+        "alreadyusing" : "Quelqu'un d'autre utilise déjà le robot sur le serveur",
+        "RadioNrj" : "Permet d'écouter Radio NRJ (France).",
+        "RadioSkyrock" : "Permet d'écouter la radio Skyrock (France).",
+        "RadioRFM" : "Permet d'écouter la radio RFM (France).",
+        "RadioRAP" : "Permet d'écouter la radio RAP (France).",
+        "RadioClassique":"Permet d'écouter la radio Radio Classique (France).",
+        "RadioMouv":"Permet d'écouter la radio Mouv' (France).",
+        "RadioNostalgie":"Permet d'écouter la radio Nostalgie (France).",
+        "RadioCheriFM":"Permet d'écouter la radio Chérie FM (France).",
+        "RadioFunradio":"Permet d'écouter la radio Funradio (France).",
+        "RadioMeGaMoV":"Permet d'écouter la radio MeGaMoV (France).",
+        "RadioNRJMETAL":"Permet d'écouter la radio NRJ METAL (France).",
+        "RadioFranceInfo":"Permet d'écouter la radio FranceInfo (France).",
+        "RadioBaroque":"Permet d'écouter la radio France Musique La Baroque (France).",
+        "select" : "Sélectionnez votre radio",
+        "Request" : "Demandé par",
+        "embed_europe_01" : "Bienvenue sur le bot Radio Box.\n",
+        "embed_europe_02" : "Utilisez le menu déroulant ci-dessous pour choisir votre radio Europe.\n",
+        "embed_europe_03" : "S'il n'y a plus de personnes sur le salon vocal, le bot se déconnectera automatiquement.\n",
+        "embed_europe_04" : "Si vous voulez m'inviter sur un serveur, utilisez la commande : `/invite`\n",
+        "embed_europe_05" : "Vous avez le choix entre **13** radios européennes.\n",
+        "embed_europe_06" : "Si vous voulez en soumettre de nouvelles, rejoignez notre serveur de support : `/support`"
+    },
+    "RadioOtherCommand": {
+        "voicechannel" : "Vous devez être dans un salon vocal pour écouter la radio.",
+        "Error" : "Une erreur s'est produite.",
+        "alreadyusing" : "Quelqu'un d'autre utilise déjà le robot sur le serveur",
+        "RadioJazzBlues" : "Permet d'écouter Jazz Radio Blues.",
+        "RadioLofi" : "Permet d'écouter la radio Lofi.",
+        "RadioPlaza" : "Permet d'écouter la radio Nightwave Plaza.",
+        "select" : "Sélectionnez votre radio",
+        "Request" : "Demandé par",
+        "embed_other_01" : "Bienvenue sur le bot Radio Box.\n",
+        "embed_other_02" : "Utilisez le menu déroulant ci-dessous pour choisir votre radio.\n",
+        "embed_other_03" : "S'il n'y a plus de personnes sur le salon vocal, le bot se déconnectera automatiquement.\n",
+        "embed_other_04" : "Si vous voulez m'inviter sur un serveur, utilisez la commande : `/invite`\n",
+        "embed_other_05" : "Vous avez le choix entre **3** radios dans cette catégorie.\n",
+        "embed_other_06" : "Si vous voulez en soumettre de nouvelles, rejoignez notre serveur de support : `/support`"
+    },
+    "InteractionCommand": {
+        "Error" : "Une erreur s'est produite.",
+        "Launch": "Lancement de la radio ",
+        "voicechannel": "dans le salon vocal"
+    }
+}
