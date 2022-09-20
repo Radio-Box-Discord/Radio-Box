@@ -1,6 +1,6 @@
 {
     "languageCommand": {
-        "success": "Langue définie sur le français 🇫🇷",
+        "success": "Langue définie sur français 🇫🇷",
         "noPermission": "Vous n'êtes pas autorisé à utiliser cette commande",
         "notValidLanguage":"Cette langue n'est pas prise en charge"
     },
