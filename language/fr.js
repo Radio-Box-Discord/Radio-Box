@@ -68,6 +68,6 @@ module.exports = {
 	'radio_w_l4': 'Si vous voulez m\'inviter sur un serveur, utilisez la commande',
 	'radio_w_l5': 'Vous avez le choix de',
 	'radio_w_l6': 'radios.',
-	'radio_w_l7': 'Si vous souhaitez en soumettre de nouvelles, rejoignez notre serveur d\'assistance',
+	'radio_w_l7': 'Si vous souhaitez en soumettre de nouvelles radios, rejoignez notre serveur d\'assistance',
 	'radio_w_l8': 'Utilisez le menu déroulant ci-dessous pour choisir votre radio.',
 };
