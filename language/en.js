@@ -68,6 +68,6 @@ module.exports = {
 	'radio_w_l4': 'If you want to invite me to a server use the command',
 	'radio_w_l5': 'You have a choice of',
 	'radio_w_l6': 'radios.',
-	'radio_w_l7': 'If you want to submit new ones, join our Support server',
+	'radio_w_l7': 'If you want to submit new ones radios, join our Support server',
 	'radio_w_l8': 'Use the drop-down menu below to choose your radio.',
 };
