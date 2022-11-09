@@ -34,7 +34,7 @@ module.exports = {
 	'botinfo_version': 'Version',
 	'botinfo_os': 'Operating System',
 	'botinfo_hosting': 'Hosting Provider',
-	'vote_msg': 'If you don\'t know how to support me, just vote for me on the top.gg website.',
+	'vote_msg': 'Want to support me? Vote for me on top.gg !',
 	'vote_button': 'Click here to vote',
 	'vote_thank_you_button': 'Thank you for voting for me ❤️',
 	'support_msg': 'You have a problem with the bot or you just want to see the new updates of the bot ? Join the official bot server.',
