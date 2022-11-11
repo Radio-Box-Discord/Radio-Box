@@ -1,0 +1,14 @@
+#Changelog
+- Passage en version 1.1.1
+- Modifications de quelques messages dans les fichiers fr.js et en.js (retrouvable sur github)
+- Ajout du continent Afrique
+- Ajout de 7 nouvelles radios (Jacaranda FM | Hot 102.7 FM | Magic 828 | EuroBeat | TechnoBase.FM | Proton Radio | Shopen Anime Radio Station)
+- Optimisation de quelques parties de code
+- Ajout d'un nouveau bouton dans la commande /vote
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
+- Switch to version 1.1.1
+- Modifications of some messages in the fr.js and en.js files (found on github)
+- Addition of the continent Africa
+- Added 7 new radios (Jacaranda FM | Hot 102.7 FM | Magic 828 | EuroBeat | TechnoBase.FM | Proton Radio | Shopen Anime Radio Station)
+- Optimization of some code parts
+- Added a new button in the /vote command
