@@ -32,7 +32,7 @@ module.exports = {
 	'botinfo_createdat': 'j\'ai été créer le',
 	'botinfo_processor': 'Processeur',
 	'botinfo_version': 'Version',
-	'botinfo_os': 'Système opérateur',
+	'botinfo_os': 'Système d\'exploitation',
 	'botinfo_hosting': 'Fournisseur d\'hébergement',
 	'vote_msg': 'Envie de me soutenir ? Votez pour moi sur top.gg !',
 	'vote_button': 'Cliquez ici pour voter',
