@@ -1,0 +1,27 @@
+#Changelog {Add Radio}
+- Ajout de la radio Flip (Radio Française)
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
+- Added Flip radio (French Radio)
+
+#Changelog {Add Radio}
+- Ajout de la radio Happy Christmas Radio (Radio Other)
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
+- Added Happy Christmas Radio (Radio Other)
+
+#Changelog {Add Radio}
+- Ajout de la radio AnimeRadio.de (Radio Other)
+- Suppression de la radio Shopen.pk Anime Radio Station
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
+- Added AnimeRadio.de (Radio Other)
+- Delete Shopen.pk Anime Radio Station
+
+#Changelog
+- Passage en version 1.1.2
+- Modifications de quelques messages dans les fichiers fr.js et en.js (retrouvable sur github)
+- Ajout de langue russe
+- Ajout de la commande /acknowledgements
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
+- Switch to version 1.1.2
+- Modifications of some messages in thefr.js and en.js files (found on github)
+- Russian language added (Thank you @Lёша)
+- added /acknowledgements command
