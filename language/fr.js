@@ -73,4 +73,16 @@ module.exports = {
 	'radio_w_l6': 'radios.',
 	'radio_w_l7': 'Si vous souhaitez en soumettre de nouvelles radios, rejoignez notre serveur d\'assistance',
 	'radio_w_l8': 'Utilisez le menu déroulant ci-dessous pour choisir votre radio.',
+	'acknowledgements': 'Vous trouverez ici les noms des traducteurs bénévoles, qui ont déjà travaillé avec moi sur le projet. Ainsi que d\'autres personnes qui m\'ont aidé pour d\'autres raisons. Je leur adresse mes remerciements.',
+	'acknowledgements_list_corrector': '**Correcteur** :',
+	'acknowledgements_list_corrector_file_corrector': '**Correcteur des fichiers Politique de Confidentialité & Termes et Conditions**',
+	'acknowledgements_list_translator': '**Traducteur** :',
+	'acknowledgements_list_translator_language_french': '**Français**',
+	'acknowledgements_list_translator_language_english': '**Anglais**',
+	'acknowledgements_list_translator_language_russia': '**Russe**',
+	'acknowledgements_list_development_assistance': '**Aide au développement** :',
+	'acknowledgements_list_logo_design': '**Conception de logo** :',
+	'acknowledgements_list_hosting_company': '**Compagnie d\'hébergement** :',
+	'acknowledgements_list_hosting_company_vps': '**Hébergement VPS**',
+	'acknowledgements_list_hosting_company_website': '**Hébergement de sites web**'
 };
