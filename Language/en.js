@@ -5,9 +5,11 @@ module.exports = {
 	'country_en' : 'English',
     'country_fr' : 'French',
     'country_ru' : 'Russian',
+	'country_jp': 'Japanese',
 	'set_language_fr_description': 'Set the language to French.',
     'set_language_en_description': 'Set the language to English.',
     'set_language_ru_description': 'Set the language to Russian.',
+	'set_language_jp_description' : 'Set the language to Japanese' ,
 	'choose_language_description': 'Please choose the language you want to set',
 	'disable_menu_set_language': 'The language select menu has been disabled.',
 	'set_language_locale': 'You have already set the language to',
@@ -102,5 +104,10 @@ module.exports = {
 	'volume_set': 'Volume set to',
 	'join_a_voice_channel' : 'You must be in a voice channel to disconnect the bot.',
 	'not_in_voice_channel' : 'You must first join a voice channel',
-	'disconnected' : 'The bot is disconnected from the voice channel'
+	'disconnected' : 'The bot is disconnected from the voice channel',
+	'radioplayurlyoutube': 'Sorry, YouTube videos are not allowed',
+	'radioplayurlspotify': 'Sorry, Spotify music is not allowed',
+	'radioplayurlsoundcloud': 'Sorry, SoundCloud music is not allowed',
+	'radioplayurlinprogress': 'The radio has been playing since',
+	'radioplayurlerror': 'Error playing radio',
 };
