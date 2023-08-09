@@ -5,9 +5,11 @@ module.exports = {
 	'country_en' : 'Английский',
     'country_fr' : 'Французский',
     'country_ru' : 'Русский',
+	'country_jp': 'Японский',
 	'set_language_fr_description': 'Установить язык на французский.',
     'set_language_en_description': 'Установить язык на английский.',
     'set_language_ru_description': 'Установить язык на русский.',
+	'set_language_jp_description': 'Установить язык на японский' ,
 	'choose_language_description': 'Пожалуйста, выберите язык, который вы хотите установить',
 	'disable_menu_set_language': 'Меню выбора языка было отключено.',
 	'set_language_locale': 'Вы уже установили язык на',
@@ -102,5 +104,10 @@ module.exports = {
 	'volume_set': 'Громкость установлена на',
 	'join_a_voice_channel' : 'Вы должны находиться в голосовом канале, чтобы отключить бота.',
 	'not_in_voice_channel' : 'Сначала вам нужно подключиться к голосовому каналу.',
-	'disconnected' : 'Бот отключен от голосового канала.'
+	'disconnected' : 'Бот отключен от голосового канала.',
+	'radioplayurlyoutube': 'Извините, видео на YouTube запрещено',
+	'radioplayurlspotify': 'Извините, музыка Spotify запрещена',
+	'radioplayurlsoundcloud': 'Извините, музыка c SoundCloud запрещена',
+	'radioplayurlinprogress': 'Радио играет c тех пор',
+	'radioplayurlerror': 'Ошибка при воспроизведении радио'
 };
