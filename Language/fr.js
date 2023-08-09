@@ -5,9 +5,11 @@ module.exports = {
 	'country_en' : 'Anglais',
 	'country_fr' : 'Français',
 	'country_ru' : 'Russe',
+	'country_jp' : 'Japonais',
 	'set_language_fr_description': 'Définir la langue en français.',
 	'set_language_en_description': 'Définir la langue en anglais.',
 	'set_language_ru_description': 'Définir la langue en russe',
+	'set_language_jp_description': 'Définir la langue en japonais',
 	'choose_language_description': 'Veuillez choisir la langue que vous souhaitez définir',
 	'disable_menu_set_language': 'Le menu de sélection a été désactivé.',
 	'set_language_locale': 'Vous avez déjà réglé la langue sur',
@@ -102,5 +104,10 @@ module.exports = {
 	'volume_set': 'Volume réglé sur',
 	'join_a_voice_channel' : 'Vous devez être dans un salon vocal pour déconnecter le bot.',
 	'not_in_voice_channel' : 'Vous devez d\'abord rejoindre un salon vocal !',
-	'disconnected' : 'Le bot est bien déconnecté du salon vocal'
+	'disconnected' : 'Le bot est bien déconnecté du salon vocal',
+	'radioplayurlyoutube': 'Désolé, les vidéos YouTube ne sont pas autorisées.',
+	'radioplayurlspotify': 'Désolé, les musiques Spotify ne sont pas autorisées.',
+	'radioplayurlsoundcloud': 'Désolé, les musiques SoundCloud ne sont pas autorisées.',
+	'radioplayurlinprogress': 'La radio est en cours de lecture depuis',
+	'radioplayurlerror': 'Erreur lors de la lecture de la radio.',
 };
