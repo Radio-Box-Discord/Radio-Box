@@ -1,4 +1,4 @@
-## Version 1.0
+## Version 2.6
 
 📡・ChangeLog ─ 2.6  
   Radio Box version 2.6 has just been released!  
